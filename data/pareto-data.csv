@@ -1,0 +1,7 @@
+Cause,Occurrences,Percent,Cumulative Percent
+Unclear approval routing,168,35.0,35.0
+Manual data entry errors,110,22.9,57.9
+Missing PO/GRN match,82,17.1,75.0
+No reminders / follow-up,58,12.1,87.1
+Batch (weekly) reviews,38,7.9,95.0
+Other,24,5.0,100.0
